@@ -1,0 +1,132 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-image: url(../img/pexels.jpeg);
+    align-items: center;
+    background-size: cover;
+    height: 150vh;
+}
+header div h1 {
+    margin-top: 0;
+    position: relative;
+    top: 400px;
+    left: 180px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+
+}
+header div h2{
+    margin-top: 0;
+    position: relative;
+    top: 400px;
+    left: 80px;
+    font-family: 'Montserrat', sans-serif;
+}
+nav {
+    background-color: rgb(124, 119, 119);
+    height: 60px;
+    position: sticky;
+    padding-top: 1px;
+    top: 0;
+}   
+nav ul {
+    position: relative;
+    top: 14vh;
+    height: 40px;
+    width: 100%;
+    text-align: right;
+    margin: 0;
+}
+nav ul li {
+    position: relative;
+    top: -140px;
+    color: #fff;
+    display: inline;
+    padding-right: 180px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+nav h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    position: relative;
+    left: 40px;
+    top: 1px;
+}
+
+main section h1 {
+
+    font-family: "Montserrat";
+    text-align: center;
+    font-size: 60px;
+    margin-top: 180px;
+    margin-bottom: 80px;
+}
+.underline {
+    position: relative;
+    border: 2px solid #000;
+    width: 200px;
+    left: 620px;
+    top: -120px;
+}
+
+section div img:nth-of-type(1){
+    width: 400px;
+    height: 300px;
+    padding-bottom: 30px;
+    padding-left: 90px;
+}
+section div img:nth-of-type(2){
+    width: 400px;
+    height: 300px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+
+}
+section div img:nth-of-type(3){
+    width: 400px;
+    height: 300px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+
+}
+
+section div img:nth-of-type(4){
+    width: 400px;
+    height: 300px;
+    padding-bottom: 30px;
+    padding-left: 90px;
+    
+}
+    
+section div img:nth-of-type(5){
+    width: 400px;
+    height: 300px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+
+}
+section div img:nth-of-type(6){
+    width: 400px;
+    height: 300px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+
+}
+.para p {
+
+    margin-left: 10%;
+    font-family: "Montserrat";
+}
+#sold {
+    padding-left: 15px;
+    color: red;
+    font-family: "Montserrat";
+}
+#green {
+    color: green;
+    padding-left: 15px;
+    font-family: "Montserrat";
+}
